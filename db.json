@@ -1,4 +1,4 @@
-{
+[
     {
         cauhoi: "Con chó có mấy chân ?",
         traloiA: "2",
@@ -31,4 +31,4 @@
         traloiD: "Sang phải",
         dapan: "B"
     }
-}
+]
