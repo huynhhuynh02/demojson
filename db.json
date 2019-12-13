@@ -1,53 +1,34 @@
 {
-  "posts": [
     {
-      "id": 1,
-      "title": "hello"
+        cauhoi: "Con chó có mấy chân ?",
+        traloiA: "2",
+        traloiB: "3",
+        traloiC: "4",
+        traloiD: "5",
+        dapan: "C"
+    },
+    {
+        cauhoi: "5+5 = ?",
+        traloiA: "10",
+        traloiB: "20",
+        traloiC: "15",
+        traloiD: "5",
+        dapan: "A"
+    },
+    {
+        cauhoi: "Quần rộng nhất là quần gì?",
+        traloiA: "Quần rách",
+        traloiB: "Quần đùi",
+        traloiC: "Quần Chúng",
+        traloiD: "Quần Jean",
+        dapan: "C"
+    },
+    {
+        cauhoi: "Có 1 con trâu. Đầu nó thì hướng về hướng mặt trời mọc, nó quay trái 2 vòng sau đó quay ngược lại sau đó lại quay phải hay vòng hỏi cái đuôi của nó chỉ hướng nào?",
+        traloiA: "Lên trời",
+        traloiB: "Xuống đất",
+        traloiC: "Sang trái",
+        traloiD: "Sang phải",
+        dapan: "B"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "products":[
-    {
-      "id":1,
-      "name":"Quần bò nam dài PP",
-      "price":250000,
-      "qty":50,
-      "unit":"cái",
-      "images":"/images/product1.jpg"
-    },
-    {
-      "id":2,
-      "name":"Quần bò nam dài Hamer",
-      "price":250000,
-      "qty":50,
-      "unit":"cái",
-      "images":"/images/product2.jpg"
-    },
-    {
-      "id":3,
-      "name":"Quần nhung nam dài",
-      "price":250000,
-      "qty":50,
-      "unit":"cái",
-      "images":"/images/product3.jpg"
-    },
-    {
-      "id":4,
-      "name":"Quần kaki nam dài",
-      "price":250000,
-      "qty":50,
-      "unit":"cái",
-      "images":"/images/product4.jpg"
-    },
-    {
-      "id":5,
-      "name":"Quần sooc nhung",
-      "price":250000,
-      "qty":50,
-      "unit":"cái",
-      "images":"/images/product5.jpg"
-    }
-  ]
 }
