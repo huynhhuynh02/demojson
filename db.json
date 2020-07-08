@@ -1,5 +1,5 @@
 {
-    "menu":[
+    "menus":[
         {
             "id":1,
             "name":"Sting Dâu",
@@ -24,5 +24,6 @@
             "price":150000,
             "image":"image1.jpg"
         }
-    ]
+    ],
+    
 }
