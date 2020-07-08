@@ -1,28 +1,28 @@
 {
-    menu:[
+    "menu":[
         {
-            id:1,
-            name:"Sting Dâu",
-            price:150000,
-            image:"image1.jpg"
+            "id":1,
+            "name":"Sting Dâu",
+            "price":150000,
+            "image":"image1.jpg"
         },
         {
-            id:2,
-            name:"Sting Vàng",
-            price:150000,
-            image:"image1.jpg"
+            "id":2,
+            "name":"Sting Vàng",
+            "price":150000,
+            "image":"image1.jpg"
         },
         {
-            id:3,
-            name:"Thuốc ngựa",
-            price:150000,
-            image:"image1.jpg"
+            "id":3,
+            "name":"Thuốc ngựa",
+            "price":150000,
+            "image":"image1.jpg"
         },
         {
-            id:4,
-            name:"Thuốc 3 Số",
-            price:150000,
-            image:"image1.jpg"
+            "id":4,
+            "name":"Thuốc 3 Số",
+            "price":150000,
+            "image":"image1.jpg"
         }
     ]
 }
